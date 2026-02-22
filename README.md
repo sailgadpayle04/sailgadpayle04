@@ -121,15 +121,7 @@ class SailGadpayle:
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sailgadpayle04&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
 
 ## 📈 Contribution Graph
 
@@ -141,31 +133,7 @@ class SailGadpayle:
 
 ---
 
-## 🎯 2025 Roadmap
 
-<div align="center">
-
-| Goal | Status |
-|------|--------|
-| 🔌 Build 3 end-to-end IoT Projects | 🔄 In Progress |
-| 🐍 Master Python for Embedded & Backend | 🔄 In Progress |
-| 🐳 Deploy projects with Docker + Linux | 🔄 In Progress |
-| 🏆 Win a Hackathon | ⬜ Upcoming |
-| 📜 Get AWS / Azure Certification | ⬜ Planned |
-| ⭐ 50+ GitHub Stars on Projects | ⬜ Planned |
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
 
 <div align="center">
 
