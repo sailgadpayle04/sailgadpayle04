@@ -1,159 +1,122 @@
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=FF6B9D&center=true&width=600&lines=Hi+👋+I'm+Sail+Gadpayle;Hardware+Engineer+⚙️;Embedded+Systems;VLSI;Building+Tomorrow's+Tech+🚀" alt="Typing SVG" />
+</div>
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Sail%20Gadpayle&fontSize=60&fontColor=00ff88&animation=fadeIn&fontAlignY=35&desc=Electronics%20%26%20Software%20Engineer%20%7C%20Intern%20%7C%20Builder&descAlignY=58&descSize=20&descColor=00d4ff" width="100%"/>
-
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=⚡+Electronics+%26+Software+Engineer;🔧+Arduino+%7C+ESP32+%7C+STM32+%7C+RPi;🐍+Python+%7C+C%2FC%2B%2B+%7C+REST+APIs;🌐+IoT+Systems+Builder;🐳+Docker+%7C+Linux+%7C+MongoDB;🚀+Open+to+Electronics+%26+Software+Roles!" alt="Typing SVG" />
-</a>
 
 <br/>
 
-<!-- PROFILE BADGES -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sailgadpayle04&label=👁️+Profile+Views&color=00d4ff&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Interning+🔥-00ff88?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Electronics+%26+Software+Roles-00d4ff?style=for-the-badge" />
-</p>
-
-</div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+## 🌟 About Me
 
-## 🧑‍💻 About Me
 
-```python
-class SailGadpayle:
-    name       = "Sail Gadpayle"
-    role       = "Electronics & Software Intern 🔋💻"
-    education  = "B.Tech Electronics @ YCCE"
-    location   = "Mahindra World City, Chengalpattu, India 📍"
-    email      = "sailgadpayle04@gmail.com"
 
-    electronics = ["Arduino", "Raspberry Pi",
-                   "ESP32/ESP8266", "STM32", "IoT Systems"]
+I'm a **Hardware Engineer** currently working as a **Hardware Intern at Rurutek Pvt Ltd** in Chengalpattu, India. I specialize in designing and developing embedded systems, microcontroller-based applications, and exploring VLSI fundamentals. 
 
-    software    = ["Python", "C/C++", "HTML & CSS",
-                   "MySQL", "MongoDB", "Docker",
-                   "Linux", "REST APIs", "Git"]
+ I'm committed to building a career in the semiconductor industry and creating innovative hardware solutions that make a real-world impact.
 
-    currently   = "Interning & leveling up every day 🚀"
-    goal        = "Build things that bridge hardware & software ⚡"
-```
+**🎯 Current Focus:**
+- ⚙️ Embedded firmware development for STM32 and ARM microcontrollers
+- 🔌 Hardware interfacing and embedded system design
+- 🐧 Linux-based embedded environments
+- 📊 VLSI design fundamentals and semiconductor technologies
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://img.shields.io/badge/TECH_STACK-FF1493?style=flat-square&logoColor=white" alt="Tech Stack"/> 🛠️
 
-<div align="center">
+### 💻 Programming Languages
+<div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sailgadpayle)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/sailgadpayle04)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sailgadpayle04)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/sailgadpayle04)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/sailgadpayle04)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sailgadpayle04@gmail.com)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black&labelColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=007396)
+![Verilog](https://img.shields.io/badge/Verilog-E81828?style=for-the-badge&logo=verilog&logoColor=white&labelColor=E81828)
 
 </div>
 
----
+### ⚙️ Hardware & Embedded Systems
+<div align="left">
 
-## ⚡ Electronics Arsenal
-
-<div align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT%20Systems-00d4ff?style=for-the-badge&logo=internetofthings&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Embedded%20C](https://img.shields.io/badge/Embedded%20C-FF006E?style=for-the-badge&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-00D9FF?style=for-the-badge&logoColor=white)
+![VLSI](https://img.shields.io/badge/VLSI-FFD60A?style=for-the-badge&logoColor=black)
 
 </div>
 
-```
-🔌 Microcontrollers    →   Arduino, ESP32, STM32, Raspberry Pi
-📡 Connectivity        →   WiFi, Bluetooth, MQTT, HTTP Protocols
-🛠️ IoT Architecture    →   Sensors → MCU → Cloud → Dashboard
-⚡ Hardware Debugging  →   Oscilloscope, Logic Analyzer, Multimeter
-```
+### 🛠️ Development Tools & IDEs
+<div align="left">
 
----
-
-## 💻 Software Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil%20μVision-0066CC?style=for-the-badge&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-00d4ff?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
----
+### 🐧 Operating Systems
+<div align="left">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sailgadpayle04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00d4ff&text_color=ffffff&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailgadpayle04&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sailgadpayle04&hide_border=true&background=0d1117&stroke=00d4ff&ring=00ff88&fire=00ff88&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" />
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 </div>
 
 ---
 
 
+## 🚀 Featured Projects
 
-## 📈 Contribution Graph
+<div align="left">
+
+### 🔲 Touchless IR Switch
+<img src="https://img.shields.io/badge/Status-✨_Complete-FF006E?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/Difficulty-Intermediate-FFD60A?style=flat-square" alt="Difficulty"/>
+
+**A smart, contactless door switch using infrared sensing technology**
+
+
+
+**🎯 Key Features:**
+- ⚡ Real-time IR sensor signal processing
+- 🤚 Gesture detection and recognition
+- 🔋 Low-power operation
+- 🚪 Easy integration with existing door systems
+
+---
+
+### 📍 GPS Tracking Device
+<img src="https://img.shields.io/badge/Status-✨_Complete-00D9FF?style=flat-square" alt="Status"/>
+<img src="https://img.shields.io/badge/Difficulty-Advanced-FF1493?style=flat-square" alt="Difficulty"/>
+
+**An intelligent vehicle tracking solution with emergency SOS capability**
+
+
+**🎯 Key Features:**
+- 📡 Real-time GPS position tracking
+- 💬 SMS-based location reporting
+- 🆘 SOS emergency alert system
+- 🔋 Low-power GPS operation
+- 📶 Reliable GSM communication
+
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sailgadpayle04&theme=react-dark&bg_color=0d1117&color=00ff88&line=00d4ff&point=00ff88&hide_border=true&area=true&area_color=00d4ff" width="100%"/>
+### 📱 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/sailgadpayle)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:sailgadpayle04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/sailgadpayle)
 
 </div>
 
 ---
 
-
-
-<div align="center">
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sailgadpayle04/sailgadpayle04/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sailgadpayle04/sailgadpayle04/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sailgadpayle04/sailgadpayle04/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&text=Let's+Build+Something+Amazing!+⚡&fontSize=26&fontColor=00ff88&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-**⭐ Star my repos if you find them useful — it means a lot! ⭐**
-
-*"The engineer's first problem in any design situation is to discover what the problem really is."*
-
-</div>
