@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **Hardware Engineer**who design and validate circuit schematics, bring up boards, and debug hardware down to the component level. I specialize in **circuit design in OrCAD Capture and Altium Designer**, **board-level bring-up and validation**, and **bare-metal Embedded C** on ARM Cortex-M platforms.
+I'm a **Hardware Engineer** who design and validate circuit schematics, bring up boards, and debug hardware down to the component level. I specialize in **circuit design in OrCAD Capture and Altium Designer**, **board-level bring-up and validation**, and **bare-metal Embedded C** on ARM Cortex-M platforms.
 
 
 
