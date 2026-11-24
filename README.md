@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=0e6e55&center=true&width=700&lines=Hi+👋+I'm+Sail+Gadpayle;Hardware+%26+Embedded+Engineer+⚙️;Circuit+Design+%7C+Bring-Up+%7C+Bare-Metal+C;ARM+Cortex-M+%7C+VLSI;Building+Close+to+the+Metal+🔩" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=0e6e55&center=true&width=700&lines=Hi+👋+I'm+Sail+Gadpayle;Hardware+%26+Embedded+Engineer+⚙️;Circuit+Design+%7C+Bare-Metal+C;ARM+Cortex-M+%7C+VLSI;Building+Close+to+the+Metal+🔩" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a **Hardware Engineer** who design and validate circuit schematics, bring up boards, and debug hardware down to the component level. I specialize in **circuit design in OrCAD Capture and Altium Designer**, **board-level bring-up and validation**, and **bare-metal Embedded C** on ARM Cortex-M platforms.
+I'm a **Hardware Engineer** who design and validate circuit schematics and debug hardware down to the component level. I specialize in **circuit design in OrCAD Capture **, **board-level bring-up and validation**, and **bare-metal Embedded C** on ARM Cortex-M platforms.
 
 
 
